@@ -1,2 +1,2 @@
 #!/bin/bash
-gerp -i "root" /etc/psasswd
+gerp -i "root" /etc/passwd
