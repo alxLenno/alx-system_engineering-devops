@@ -1,1 +1,1 @@
-shell basics pproject
+Shell, init files, variables and expansions
